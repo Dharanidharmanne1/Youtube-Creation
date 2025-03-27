@@ -1,0 +1,37 @@
+.cat-pic{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  margin-bottom: 12px;
+
+ 
+}
+
+.person-name{
+    font-weight: bold;
+    font-size: 20px;
+    margin-left:8px;
+    margin-bottom:4px;
+}
+
+.number-friends{
+  color: rgb(149, 142, 142);
+  margin-left:8px;
+  margin-bottom:4px;
+  
+}
+
+.addfriend-button{
+  background-color: rgb(34, 108, 227);
+  color:white;
+  border:none;
+  padding-top:8px;
+  padding-bottom:8px;
+  padding-left:20px;
+  padding-right:20px;
+  border-radius: 4px;
+  font-size: 16px;
+  margin-left: 8px;
+  margin-bottom: 10px;
+
+}

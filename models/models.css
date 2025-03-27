@@ -1,0 +1,34 @@
+p{
+  font-family: montserrat;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+
+}
+
+
+
+.model-para{
+  
+  color:rgba(9, 9, 9, 0.942);
+  font-size: 50px;
+  font-weight: 650;
+  margin-bottom: 10px;
+
+
+  
+
+}
+
+.order-online{
+font-weight: thin;
+font-size:23px;
+
+
+}
+
+.touchless{
+
+    text-decoration: underline;
+
+}
